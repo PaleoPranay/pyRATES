@@ -28,7 +28,7 @@
 |-------| ------------| ----------|
 | **1. Gather Data** | Loading all the given datasets as pyleo series | [Dataset](https://doi.org/10.1594/PANGAEA.965443)|
 | **2. Data Processing**| Process data for any missing values, interpolation to deal with unevenly spaced data etc. | [Data cleaning steps](https://pyleoclim-util.readthedocs.io/en/latest/core/api.html#pyleoclim.core.series.Series.clean) |
-| **3. Spectral Analysis** | Perform spectral analysis on loaded series using pyleoclim package. | [Pyleoclim](https://pyleoclim-util.readthedocs.io/en/latest/)|
+| **3. Spectral Analysis** | Perform spectral analysis on loaded series using pyleoclim package. | [Pyleoclim Spectral Analysis](https://pyleoclim-util.readthedocs.io/en/latest/core/api.html#pyleoclim.core.series.Series.spectral)|
 | **4. Filtering Timeseries**| Filter the timeseries for 413kyr periodicity.| [Filtering using pyleoclim](http://linked.earth/PyleoTutorials/notebooks/L1_filtering_and_detrending.html) |
 | **5. Stackplot**| Create a stackplot combining all the timeseries to generate the final figure. | Function: [stackplot()](https://pyleoclim-util.readthedocs.io/en/v0.7.4/utils/plotting/stackplot.html) |
 
