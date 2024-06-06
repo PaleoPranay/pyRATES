@@ -19,7 +19,7 @@
 </div>
 
 
-Link: [https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-07143-3/MediaObjects/41586_2024_7143_Fig14_ESM.jpg?as=webp](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-07143-3/MediaObjects/41586_2024_7143_Fig14_ESM.jpg?as=webp)
+[Link to the figure](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-07143-3/MediaObjects/41586_2024_7143_Fig14_ESM.jpg?as=webp)
 
 ------------
 
