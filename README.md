@@ -20,9 +20,13 @@
 
 Link: [https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-07143-3/MediaObjects/41586_2024_7143_Fig14_ESM.jpg?as=webp](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-07143-3/MediaObjects/41586_2024_7143_Fig14_ESM.jpg?as=webp)
 
+------------
 
+### **Proposed workflow:**
+| Steps | Explanation | Available links |
+|-------| ------------| ----------|
+| 1. Gather Data | Loading all the given datasets in a pandas dataframe | [Dataset](https://doi.org/10.1594/PANGAEA.965443)|
 
-Proposed workflow:
 
 
 
