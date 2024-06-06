@@ -2,6 +2,8 @@
 #### Date: 03 - 06 June 2024
 ---------------------------------------------
 #### This repository has been created to reproduce a study
+[![DOI](https://zenodo.org/badge/810518716.svg)](https://zenodo.org/doi/10.5281/zenodo.11508506)
+
 ---------------------------------------------
  **Title of the study:** Five million years of Antarctic Circumpolar Current strength variability
 
