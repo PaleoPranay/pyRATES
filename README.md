@@ -30,9 +30,9 @@ Link: [https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2
 |-------| ------------| ----------|
 | **1. Gather Data** |Load all the available datasets ||
 ||1. Antarctic Circumpolar Current strength record|[Link](https://doi.org/10.1038/s41586-024-07143-3)|
-|  |2. Antarctic Ice Volume record| [Link](http://scholar.google.com/scholar_lookup?&title=Persistent%20400%2C000-year%20variability%20of%20Antarctic%20ice%20volume%20and%20the%20carbon%20cycle%20is%20revealed%20throughout%20the%20Plio-Pleistocene&journal=Nat.%20Commun.&doi=10.1038%2Fncomms3999&volume=5&publication_year=2014&author=de%20Boer%2CB&author=Lourens%2CLJ&author=Wal%2CRSW) |
-||3. Asian Monsoon record|[Link](http://scholar.google.com/scholar_lookup?&title=Seven%20million%20years%20of%20wind%20and%20precipitation%20variability%20on%20the%20Chinese%20Loess%20Plateau&journal=Earth%20Planet.%20Sci.%20Lett.&doi=10.1016%2Fj.epsl.2010.07.004&volume=297&pages=525-535&publication_year=2010&author=Sun%2CYB&author=An%2CZS&author=Clemens%2CSC&author=Bloemendal%2CJ&author=Vandenberghe%2CJ)|
-||4. Global Marine δ13C stack|[Link](http://scholar.google.com/scholar_lookup?&title=An%20astronomically%20dated%20record%20of%20Earth’s%20climate%20and%20its%20predictability%20over%20the%20last%2066%20million%20years&journal=Science&doi=10.1126%2Fscience.aba6853&volume=369&pages=1383-1387&publication_year=2020&author=Westerhold%2CT)|
+|  |2. Antarctic Ice Volume record| [Link](https://www.nature.com/articles/ncomms3999) |
+||3. Asian Monsoon record|[Link](https://www.sciencedirect.com/science/article/pii/S0012821X10004425?casa_token=nPIDYsje-CwAAAAA:fHf6t0hC9bb7agt4cGz89tBGX5OxJmFdLmzy2SF-EWyOclaJfGSOQmwvCSUGOtx4esSxaEzBGaY)|
+||4. Global Marine δ13C stack|[Link](https://www.science.org/doi/full/10.1126/science.aba6853?casa_token=2D6n76g8L1sAAAAA%3A9MFkaU13cOaZke17xRsSfrAyP1DCqGJ3htoOoKzm9sUqLr6_k4Yi4a7-30O_1hTMJchDgpBnvcBNXvk)|
 ||5. Eccentricity parameter|[Link](https://www.aanda.org/articles/aa/full/2004/46/aa1335/aa1335.html)|
 | **2. Data Processing**| Process data for any missing values, interpolation to deal with unevenly spaced data etc. | [Data cleaning steps](https://pyleoclim-util.readthedocs.io/en/latest/core/api.html#pyleoclim.core.series.Series.clean) |
 | **3. Spectral Analysis** | Perform spectral analysis on loaded series using pyleoclim package. | [Pyleoclim](https://pyleoclim-util.readthedocs.io/en/latest/)|
@@ -42,11 +42,6 @@ Link: [https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2
 ----------
 
 
-[**Link to the jupyter notebook**](https://github.com/PaleoPranay/pyRATES/blob/main/notebook/pyRATES_github.ipynb)
-
-
-
-
-
+## [**Link to the jupyter notebook**](https://github.com/PaleoPranay/pyRATES/blob/main/notebook/pyRATES_github.ipynb)
 
 
