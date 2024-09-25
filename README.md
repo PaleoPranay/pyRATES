@@ -37,7 +37,7 @@ Link: [https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2
 ----------
 
 
-[**Link to the jupyter notebook**]()
+[**Link to the jupyter notebook**](https://github.com/PaleoPranay/pyRATES/blob/main/notebook/pyRATES_github.ipynb)
 
 
 
