@@ -1,4 +1,4 @@
-# pyRATES Workshop: Python and R Analysis of Time SerieS
+# pyRATES Workshop: Time Series Analysis with Python and R 
 #### Date: 03 - 06 June 2024
 ---------------------------------------------
 #### This repository has been created to reproduce a study
